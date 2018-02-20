@@ -1,0 +1,6 @@
+[package]
+name = "rustlvl2"
+version = "0.1.0"
+authors = ["Sivaram Konanki <sivaram.konanki@p45535.intra.rakuten.co.jp>"]
+
+[dependencies]
